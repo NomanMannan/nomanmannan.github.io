@@ -1,4 +1,11 @@
-Functional Proxy:
+---
+layout: post
+category : design_patterns
+title: Functional Proxy
+tagline: "Proxy Pattern"
+tags : [proxy, proxy pattern, functional abstraction, delegation]
+---
+{% include JB/setup %}
 
 Proxy pattern provides pre and post processing before and after delegation to the real object accordingly. 
 For example consider a  SimpleCalculator class:
