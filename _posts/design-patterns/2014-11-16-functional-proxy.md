@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Design Patterns
+category : design-patterns
 title: Functional Proxy
 tagline: "Proxy Pattern"
 tags : [proxy, proxy pattern, functional abstraction, delegation]
